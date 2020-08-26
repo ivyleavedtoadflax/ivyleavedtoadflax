@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
-- 😄 Pronouns: He/His
-
 **Languages and Tools:**  
 
 <a href="https://github.com/ivyleavedtoadflax">
